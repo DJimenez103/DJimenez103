@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Boss of the SOC V1](https://github.com/DJimenez103/BOTS-v1/tree/main)
 - <b>Python</b>
-  - [Functions In Python](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Functions In Python](https://github.com/DJimenez103/Functions-with-Python)
 - <b>File permissions with Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Assessment Reports</b>
